@@ -8,4 +8,4 @@ This is a simple linear regression task, involving just two variables.
 
 #Task 03 - Unsupervised Machine Learning
 
-From the given "Iris" dataset, we will predict the 'Optimum Number of clusters' and represent it visually.
+From the given "Iris" dataset, we will predict the 'Optimum Number of clusters' using K-Means Clustering and represent it visually.
